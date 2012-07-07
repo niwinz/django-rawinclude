@@ -9,7 +9,7 @@ This really is useful for embedding javascript templates with sintaxys
 similar to django. It is more useful than the templatetag "ssi" because it
 uses all the logic of templateloaders of django.
 
-**NOTE1**: Not compatible with django cache loader in the very near future be implemented cache itself.
+**NOTE1**: Not compatible with django cache loader, but in the very near future be implemented cache itself.
 
 **NOTE2**: it is studying ways to facilitate i18n, either through javascript, either by python.
 
